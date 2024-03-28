@@ -94,7 +94,6 @@ private:
 
     static const int kMaxNumericSize = 32;
 };
-
 } // namespace momoko
 
 #endif // MOMOKOLOG_LOGSTREAM_H
